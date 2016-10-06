@@ -16,7 +16,7 @@ if (isset($_GET['aksi'])){
 </head>
 <body>
 <table>
-
+<!-- sadsa -->
 <form method="POST" enctype="multipart/form-data">
 	<tr>
 		<td><label>ID </label></td>
